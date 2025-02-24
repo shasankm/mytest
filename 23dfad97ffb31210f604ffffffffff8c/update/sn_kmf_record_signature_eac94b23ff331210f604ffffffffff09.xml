@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_kmf_record_signature">
+    <sn_kmf_record_signature action="INSERT_OR_UPDATE">
+        <certificate_alias display_value="code_signing_key_publicsigver_43dd6517ffb31210f604ffffffffff0d">0bdd6517ffb31210f604ffffffffff99</certificate_alias>
+        <document_id>0c1035d7ffb31210f604ffffffffff98</document_id>
+        <field_list>active,client_callable,sys_policy,script</field_list>
+        <is_attachment>false</is_attachment>
+        <jurisdiction_alias>Customer_Authored</jurisdiction_alias>
+        <purpose display_value="">wild_card_purpose</purpose>
+        <signature>vAIVZ8Z8rDaXpLjx8/9L8bIpaZC50JXMCA/owcLcLZa+mnb18e+MEjOzGcs4R9vcigCZzcp9bprsOGSZDf1GXarnTEvjDn44w89Ls3xTnQ5iGeAJOFf3d+TCVf+/gLk1e8gXwYNpPkgkBqLsWMkDlDbB6jeFQrkjlZm2CgZ+iH5NQw2DTo4MN0J2VG3sPIAwKKu0fJ8uHfy2Z7pk/xYX1v+OsNKYBKMnM2IOE2fx46fhPBKbJahyYcAJVRQF4uuksLKajmtGjOFspMJn0JQtNk+w2yWaegUwzGiXmDrkS0XAmRr51J9S29WjEzrY6Y+2Gd+P3QBfrT4t3of0GrvaQpzjqgGiYxoFYXTvxiFn3XwW/RsihY7+VN2MUccK56O6UudBD/921LTqgK5qFmoItO6+00oL90VaxWglayxbmw2wKn/fZwsVXSDPkXkSzymheSzp5HPcovOf1Idz5Y0+PSQe7QQE5Ve480qnTUzZaDa8deZVBqtJqZQ8BSWgoHe7t9NkAGkeMkHgN+QXfyfmT2Ks9WED66H/kqcT9xCKG2cpBJE7as51NpsHvMMPaMTJp32NGzjcs/S96X7B5+v+MnrEXznNLvhoRr9BWiinRfX5DNmlwiTPUJP1sz7CZ2y/EJCt6hvorUhEMeUbOAwuWYELppAumiVoSYqQWqtb08w=</signature>
+        <signature_algorithm>SHA256withRSAandMGF1</signature_algorithm>
+        <signature_timestamp>{"econtent_type":"com.glide.codesigning.timestamp.agents.response.CodeSigningTimeStampResponse","econtent":{"status":{"code":"GRANTED","infomation":"The time stamp is successfully granted.","failure_message":""},"timestamp_token":{"econtent_type":"com.glide.codesigning.timestamp.agents.response.TimeStampToken","econtent":{"encapsulated_content":{"econtent_type":"com.glide.codesigning.timestamp.agents.response.TimeStampContent","econtent":{"version":"v1","serial_number":"20250224221439","message_imprint":{"econtent_type":"com.glide.codesigning.timestamp.agents.request.SignatureHashMessageImprint","econtent":{"message_digest":[-121,18,125,-65,-10,37,42,65,27,46,31,7,-1,-101,-72,13,15,59,7,-127,68,-93,-78,-101,-64,18,38,-80,-55,-33,-58,91],"hash_algorithm":"SHA3-256"}},"time_stamp":"20250224221439Z","time_accuracy":"040000Z"}},"signer_infos":[{"signature":[-122,50,-4,44,48,-19,-73,43,-19,-66,-11,-26,-33,-47,-94,-57,23,77,27,-33,-48,77,-91,48,41,-21,-13,-56,-83,-80,106,-54,-42,-25,-74,-77,-60,2,-117,-9,-102,119,-59,-32,-72,-105,40,18,3,34,-71,-82,-22,-41,29,-43,45,-121,69,81,114,-67,-93,37,-122,-9,-111,-95,103,27,-28,-128,-112,71,60,24,-100,-30,-40,-126,25,-54,8,-8,96,40,-93,95,82,-82,77,-117,37,13,30,-112,-23,118,4,0,114,110,70,18,26,43,-69,106,-27,95,-44,115,-85,-41,-35,-102,117,-3,-62,38,-74,45,44,84,-82,127,-92,-72,113,-125,-79,112,89,59,-28,-110,75,-63,71,-15,122,74,-48,-81,-110,57,23,3,98,50,-28,12,-113,22,-62,12,-98,-55,36,-60,-8,-76,-25,102,-47,89,74,56,73,66,-64,-92,-85,123,-115,19,6,36,-31,83,-61,-32,-24,-74,-13,-113,73,43,-20,72,-119,-48,-17,-64,84,-41,63,60,12,120,-64,-41,-54,-17,31,42,44,61,-71,-68,-68,77,-50,17,-120,47,92,75,38,67,68,121,95,-99,124,-77,-126,-40,-113,13,63,15,-23,81,40,-21,-67,-61,-49,120,94,-73,-62,9,-101,-82,-59,-60,4,-40,104,120,-119,-118,-69,125,-20,-82,1,80,-61,92,-67,76,48,-44,87,-82,-54,-111,17,-42,-3,-75,-18,-60,114,-67,49,101,-50,-104,78,16,61,59,-71,47,73,-125,123,94,23,111,-42,1,-119,-49,58,-97,48,122,-42,113,126,89,81,56,54,54,-60,80,23,62,-110,-38,86,15,38,9,-75,49,-21,-89,-17,-52,-17,-105,59,46,-65,20,76,84,0,-108,-106,-121,-94,8,-38,-128,-72,126,-27,37,6,120,-2,99,-60,-74,-108,93,-105,48,12,103,53,-114,-28,-22,117,-84,105,27,-51,114,121,7,-47,122,-68,109,-98,-32,39,51,81,6,-74,36,-62,-94,68,-100,56,38,-96,-111,-80,79,2,115,85,-114,-24,-75,127,-11,-92,-79,-23,-102,-119,49,-119,-121,-91,110,-128,96,-30,79,-125,89,75,13,-89,-105,-6,4,17,9,-45,40,123,105,-43,-61,-83,23,97,-42,77,62,-23,-117,51,114,-21,-10,-38,111,-102,-18,19,-100,-43,-70,-18,87,-31,25,-99,98,93,11,60,-49,30,-3,11,-19,-65,125,29,-56,-45,99,-44,85,68,-89,-36,-62,43,-119,-108,77,80,-122,-62,98,68,-55,85,75,-67,49,29,-76,31,-27,68,104,73,-102,25,89,-97,-13,60,40,68,106,8,-66,6,-8,-123,-95],"signature_algorithm_identifier":"SHA256withRSAandMGF1","certificate_identifier":"code_signing_key_publicsigver_43dd6517ffb31210f604ffffffffff0d"}]}}}}</signature_timestamp>
+        <sys_class_name>sn_kmf_record_signature</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 22:14:39</sys_created_on>
+        <sys_id>eac94b23ff331210f604ffffffffff09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MyApp" source="x_1234_myapp">23dfad97ffb31210f604ffffffffff8c</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="MyApp">23dfad97ffb31210f604ffffffffff8c</sys_scope>
+        <sys_update_name>sn_kmf_record_signature_eac94b23ff331210f604ffffffffff09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 22:14:39</sys_updated_on>
+        <table_name>sys_script_include</table_name>
+        <validation_params>{"fVersion":"2.0.0"}</validation_params>
+    </sn_kmf_record_signature>
+</record_update>
